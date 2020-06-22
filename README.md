@@ -10,5 +10,7 @@ Simple tic-tac-toe game writen in Python.
 +-----------+
 
 testing 1
+
 testing 2
+
 testing 3
